@@ -8,9 +8,10 @@ This is a project developed by @Uluç Furkan Vardar and @ilkay Tevfik Devran for
   >CNN (Convolutional Neural Network)implemantation for regocnation of paintings.
 
 # How Does Program Do This?
- - Our SIFT implemantation steps in below:
+ > Our SIFT implemantation steps in below:
  ![alt text](https://raw.githubusercontent.com/ilkayDevran/Painting-Search/master/Activity%20Diagram%20for%20ATM.png)
-- Our CNN implemantation steps in below:
+
+>Our CNN implemantation steps in below:
  ![alt text](https://34tzkp3af7ck1k675g1stf6n-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/typical_cnn_architecture.png)
 
 
