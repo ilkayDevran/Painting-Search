@@ -11,7 +11,7 @@ This is a project developed by @Uluç Furkan Vardar and @ilkay Tevfik Devran for
  - Our SIFT implemantation steps in below:
  ![alt text](https://raw.githubusercontent.com/ilkayDevran/Painting-Search/master/Activity%20Diagram%20for%20ATM.png)
 - Our CNN implemantation steps in below:
-- ![alt text](https://34tzkp3af7ck1k675g1stf6n-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/typical_cnn_architecture.png)
+ ![alt text](https://34tzkp3af7ck1k675g1stf6n-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/typical_cnn_architecture.png)
 
 
 
@@ -33,9 +33,36 @@ After you view, lets continue
 | Required Libraries  | installation |
 | ------ | ------ |
 | numpy |  pip install numpy |
-| cv2 |  pip install cv2 |
+| cv2 |  pip install opencv-python |
 | tensorflow |  pip3 install tensorflow |
 | keras |  pip3 install keras |
 | graphviz |  pip install graphviz |
 | pydot |  pip install pydot |
+
+
+# Usage
+>Usage of *SIFT* on terminal
+
+
+```sh
+$  python PaintingFecherWSift.py -p 'PATH OF THE INPUT IMAGE'
+```
+ex:
+```sh
+$  python PaintingFecherWSift.py -p queries/query1.png
+```
+> A typical output of the program
+![alt text](https://raw.githubusercontent.com/ilkayDevran/Painting-Search/master/Ekran%20Resmi%202018-05-23%2012.04.32.png)
+ 
+ 
+
+
+
+
+
+
+
+
+
+
 
