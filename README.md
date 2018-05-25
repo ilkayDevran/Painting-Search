@@ -66,11 +66,11 @@ $  python3 Keras_test.py
 
  
 # Mobile Text Recognizer As An Additional Project
-<<<<<<< HEAD
+
 > The Main idea of the project is to regocnize the text in real time using a mobil app.
 =======
 > The Main idea of the project is to recognize the text in real time using a mobil app.
->>>>>>> master
+
 for this app we use google.android.textRecognizer component.
 
 >An android project is developed  for this reason and we can recognize text on time view.
