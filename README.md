@@ -14,6 +14,10 @@ This is a project developed by @Uluç Furkan Vardar and @ilkay Tevfik Devran for
 
 >Our CNN implemantation steps in below:
  ![alt text](https://34tzkp3af7ck1k675g1stf6n-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/typical_cnn_architecture.png)
+ 
+ 
+ >Sample Output of the CNN implemantation:
+ ![alt text](https://raw.githubusercontent.com/ilkayDevran/Painting-Search/master/github_readMe_images/CNNTerminal.png)
 
 
 
@@ -22,7 +26,7 @@ If you want to learn more about these topics you can go for it:
 * [Keras information](https://elitedatascience.com/keras-tutorial-deep-learning-in-python) - You can find needed information from this website.
 * [Keras Script resource](https://gist.github.com/fchollet/0830affa1f7f19fd47b06d4cf89ed44d) - You can find how to use keras in python from here like us :)
 * [TensorFlow](http://developercoding.com/tensorflow/#About-TensorFlow)- TensorFlow is an open source software library which helps us to build neural networks, more info go to link.
-* [SIFT information] (A. Rosebrock, Practical Python and OpenCV : Case Studies, 3rd ed. pyimagesearch, 2016, pp. 86-105.)
+* [SIFT information] (A. Rosebrock, Practical Python and OpenCV : Case Studies, 3rd ed. pyimagesearch, 2016, pp. 86-105.)
 
 After you view, lets continue
 
@@ -102,24 +106,3 @@ First problem is empty slots. we put zeros to empty placeses even this we cant f
 # TO DO 
 * Focusing of the empty places problem, we can find a solution and app will be finished.
 * Our concole apps are works but we want to move all system to AWS. Thanks to the cloud system, our service is planned to be supported on all platforms.
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
