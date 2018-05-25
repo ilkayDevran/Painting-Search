@@ -15,10 +15,6 @@ This is a project developed by @Uluç Furkan Vardar and @ilkay Tevfik Devran for
 >Our CNN implemantation steps in below:
  ![alt text](https://34tzkp3af7ck1k675g1stf6n-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/typical_cnn_architecture.png)
  
- 
- >Sample Output of the CNN implemantation:
- ![alt text](https://raw.githubusercontent.com/ilkayDevran/Painting-Search/master/github_readMe_images/CNNTerminal.png)
-
 
 
 ### Topic Research
@@ -60,6 +56,14 @@ $  python PaintingFecherWSift.py -p queries/query1.png
 ![alt text](https://raw.githubusercontent.com/ilkayDevran/Painting-Search/master/github_readMe_images/outPutOfSIFT.png)
 
 >Usage of *CNN* on terminal
+ ```sh
+$  python3 Keras_test.py
+```
+ 
+ >Sample Output of the CNN implemantation:
+ ![alt text](https://raw.githubusercontent.com/ilkayDevran/Painting-Search/master/github_readMe_images/CNNTerminal.png)
+
+
  
 # Mobile Text Recognizer As An Additional Project
 <<<<<<< HEAD
